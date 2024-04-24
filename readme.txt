@@ -54,4 +54,4 @@ Follow the same steps used for the normal distribution, with the addition of est
 
 
 This readme.txt file is a complementary file for the following manuscript:
-Verbovšek, T. & Šega, G. Estimating true mean value and standard deviation of data censored by limit of detection (Nature Geoscience, year, ...).
+Verbovšek, T. & Šega, G. Estimating true mean value and standard deviation of data censored by limit of detection (?).
